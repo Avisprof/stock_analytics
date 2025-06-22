@@ -2,4 +2,5 @@ pandas
 matplotlib
 seaborn
 yfinance
-lxml
+tqdm
+gdown
