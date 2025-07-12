@@ -12,3 +12,5 @@ __pycache__/
 *.py[cod]
 __pycache__/
 
+/data/stocks_df_combined.parquet
+
